@@ -1,5 +1,5 @@
 
-## 2D Turbulent Flow Simulation 1.0
+## 2D Turbulent Flow Simulation 1.0 :ocean:
 
 ---
 
