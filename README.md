@@ -25,12 +25,10 @@ class Foundations:
         tertiary = "Turbulence models/PDE's"
         
         projectList = [primary, secondary, tertiary]
-            
-foundations = Foundations()
 
-for i in range (0, len(foundations.projectList)):
+for i in range (0, len(Foundations().projectList)):
     
-    print (foundations.projectList[i])
+    print (Foundations().projectList[i])
 ```
 
 ---
