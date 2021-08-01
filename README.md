@@ -20,9 +20,9 @@ I intend to use this platform to document (trials, tribulations and all) the cre
 ```python
 class Foundations: 
 
-        primary = "University-level fluid mechanics knowledge"
-        secondary = "Navier-Stokes equations" 
-        tertiary = "Turbulence models/PDE's"
+        primary = "Finite Volume Method"
+        secondary = "2D Navier-Stokes Equations" 
+        tertiary = "A Turbulence Model"
         
         projectList = [primary, secondary, tertiary]
 
