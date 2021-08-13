@@ -1,0 +1,24 @@
+Useful Links:
+
+
+ # Fluids Fundamentals: 
+[1] Dynamic viscosity of water.
+Rumble, John R., ed. (2018). CRC Handbook of Chemistry and Physics (99th ed.). Boca Raton, FL: CRC Press. ISBN 978-1138561632.
+
+# Python: 
+[1] Mesh grids. 
+https://www.geeksforgeeks.org/numpy-meshgrid-function/
+
+# CFD: 
+[1] Real-time Fluid Dynamics for Games 
+https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf
+
+[2] Fluid Simulation for Dummies
+https://mikeash.com/pyblog/fluid-simulation-for-dummies.html
+
+[3] CFD: The Finite-Volume Method
+https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/comphydr/p1.pdf
+
+
+
+
