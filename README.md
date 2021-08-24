@@ -1,5 +1,5 @@
 
-## 2D Turbulent Flow Simulation 1.0 :ocean:
+## 2D Fluid Simulation 1.0 :ocean:
 
 ---
 
@@ -9,10 +9,11 @@
 After stumbling across these pretty 2D fluid simulations on YouTube:
 
 > * [Fluid Simulation C++ / SFML](https://www.youtube.com/watch?v=XIvO_tzBIMw)
-> * [MATLAB 2D Fluid Simulation](https://www.youtube.com/watch?v=cM47L5RddsM)  
+> * [MATLAB 2D Fluid Simulation](https://www.youtube.com/watch?v=cM47L5RddsM) 
+> * [Kelvin-Helmholtz instability with OpenFOAM](https://www.youtube.com/watch?v=gSK76eLUn6k) 
 
 I was compelled to try and program one myself - from scratch.  
-I intend to use this platform to document (trials, tribulations and all) the creation of the 2D simulation of turbulent flow. 
+I intend to use this platform to document (trials, tribulations and all) the creation of a 2D Kelvin-Helmhortz instability simulation. 
 
 ---
 
@@ -20,11 +21,10 @@ I intend to use this platform to document (trials, tribulations and all) the cre
 ```python
 class Foundations: 
 
-        primary = "Finite Volume Method"
-        secondary = "2D Navier-Stokes Equations" 
-        tertiary = "A Turbulence Model"
-        
-        projectList = [primary, secondary, tertiary]
+        primary = "Kelvin Helmhortz Instability"
+        secondary = "Finite Volume Method"
+      
+        projectList = [primary, secondary]
 
 for i in range (0, len(Foundations().projectList)):
     
@@ -35,6 +35,5 @@ for i in range (0, len(Foundations().projectList)):
 
 **Methodology**
 
-As of now, it will not include pertubations caused by vegetation, rocks etc., i.e. as it normally would be the case in open channel flow.  
-This is a ***'learn-as-I-go'*** project so the focus is to first, achieve a simple version of the model *before* adding additional features to make it a better representation of turbulent flow in real-world context. 
+This is a ***'learn-as-I-go'*** project so the focus is to first, achieve a simple version of the model *before* adding additional features.
 
