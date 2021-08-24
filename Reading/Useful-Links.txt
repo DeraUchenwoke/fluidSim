@@ -1,11 +1,19 @@
 Useful Links:
 
-
 [1] CFD: The Finite-Volume Method
 https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/comphydr/p1.pdf
 
 [2] Forms of the Euler Equations
 http://ossanworld.com/cfdnotes/cfdnotes_forms_of_euler.pdf
+
+[3] Introduction to the Finite Volumes Method. Application to the Shallow Water Equations.
+http://caminos.udc.es/info/asignaturas/201/Finite%20Volumes%20IMWE.pdf
+
+Performance: 
+
+[1] Numpy vs Tensorflow Performance Comparison 
+https://realpython.com/numpy-tensorflow-performance/
+
 
 
 
